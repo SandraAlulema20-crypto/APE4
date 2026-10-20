@@ -85,7 +85,7 @@ Repetir el procedimiento con la clase principal de cada ejercicio.
 
 👩‍💻 Autora
 
-Sandy
+Sandra Alulema
 
 📝 Conclusión
 
